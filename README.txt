@@ -30,3 +30,5 @@ Calculate p-value of jaccard index for input genes from distribution of jaccard 
 Number of elements are the number of interation time set in the step1.
 
 Output pathways where input genes are enriched.  
+
+command: step2_calc_upper_p.pl
